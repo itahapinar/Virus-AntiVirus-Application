@@ -1,0 +1,17 @@
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\bin\Debug\net8.0-windows\AntiVirus.exe
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\bin\Debug\net8.0-windows\AntiVirus.deps.json
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\bin\Debug\net8.0-windows\AntiVirus.runtimeconfig.json
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\bin\Debug\net8.0-windows\AntiVirus.dll
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\bin\Debug\net8.0-windows\AntiVirus.pdb
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.Form1.resources
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.AssemblyInfo.cs
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.dll
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\refint\AntiVirus.dll
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.pdb
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.genruntimeconfig.cache
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\ref\AntiVirus.dll
+C:\Users\Taha\Desktop\Projects\AntiVirus\AntiVirus\obj\Debug\net8.0-windows\AntiVirus.Properties.Resources.resources
